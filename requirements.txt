@@ -1,0 +1,84 @@
+# ==============================
+# Environment & Configuration
+# ==============================
+python-dotenv
+
+# ==============================
+# LangChain Core
+# ==============================
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# ==============================
+# Google Gemini
+# ==============================
+langchain-google-genai
+google-genai
+
+# ==============================
+# Mistral
+# ==============================
+langchain-mistralai
+mistralai
+langchain-groq
+# ==============================
+# Hugging Face
+# ==============================
+langchain-huggingface
+huggingface-hub
+transformers
+sentence-transformers
+
+# ==============================
+# Vector Databases
+# ==============================
+chromadb
+langchain-chroma
+
+# ==============================
+# Embeddings
+# ==============================
+# sentence-transformers is already included above
+
+# ==============================
+# Document Loaders
+# ==============================
+pypdf
+docx2txt
+python-docx
+unstructured
+
+# ==============================
+# Web / HTML Documents
+# ==============================
+beautifulsoup4
+requests
+
+# ==============================
+# Data Processing
+# ==============================
+numpy
+pandas
+
+# ==============================
+# API / HTTP
+# ==============================
+httpx
+aiohttp
+
+# ==============================
+# RAG / Retrieval Utilities
+# ==============================
+rank-bm25
+
+# ==============================
+# Streamlit Frontend
+# ==============================
+streamlit
+
+# ==============================
+# Jupyter / Development
+# ==============================
+ipykernel
