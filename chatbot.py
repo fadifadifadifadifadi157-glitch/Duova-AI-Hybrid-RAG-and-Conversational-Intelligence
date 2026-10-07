@@ -35,6 +35,7 @@ elif choice == 3:
     mode = "You are a quick AI assistant. Give short, direct, and to-the-point answers. Avoid unnecessary explanations."
 
 # creating messages history
+
 messages=[
     SystemMessage(content=mode)  # sets the behaviour of chat bot 
 ]
