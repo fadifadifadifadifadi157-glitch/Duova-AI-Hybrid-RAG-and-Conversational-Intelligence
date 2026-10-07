@@ -1,0 +1,26 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary data/files
+scratch/
+
+# Do NOT ignore these because Streamlit Cloud needs them to load instantly:
+!ChromaDB/
+!preload_data/
