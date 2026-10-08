@@ -176,7 +176,7 @@ RAG project/
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/fadifadifadifadifadi157-glitch/RAG-Document-Q-A-and-Multi-Mode-Chat-Assistant-.git
 cd "RAG project"
 ```
 
