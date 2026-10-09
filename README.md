@@ -291,7 +291,3 @@ Drop any `.pdf` into `preload_data/` and restart the app. `preindex.py` detects 
 Built with [LangChain](https://www.langchain.com/), [ChromaDB](https://www.trychroma.com/), [Streamlit](https://streamlit.io/), [Hugging Face Sentence Transformers](https://www.sbert.net/), and [Groq](https://groq.com/).
 
 ---
-
-## 📄 License
-
-Add your license here (e.g., MIT).
